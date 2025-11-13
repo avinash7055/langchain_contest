@@ -79,3 +79,10 @@ async function run(){
 }
 
 run();
+
+
+
+//---------RUN THIS COMMAND TO SEE OUTPUT-----------------------
+// node --loader ts-node/esm src/index.ts "$12.99; 4.8 stars! carrying case and cleaning brush include -- EcoSipper Stainless Steel Straw Set GizmoTech Smartwatch - $199.99. ???? heart rate monitor, GPS, water-resistant.EcoBrew Coffee Maker - $89.95 USD ????? noise cancellation SoundWave Pro Headphones with 
+// 30-hour battery life $149.99, 4.8 star $299.00! UltraClean Robot Vacuum ???BrightLens 4K Projector approximtely $349, rated 4/5 stars Stainless steel SleekBlend Mixer for $79.99 is quite a steal! 8/10.Our rating for the FitTrack Smart Scale is 3/5. It's just not worth the retail price of $49.99 USD.The TravelLite Backpack's ($59.95) water-resistant 
+// fabric performed poorly in our tests, which is why we've dropped the rating to 2."
